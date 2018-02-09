@@ -1,3 +1,3 @@
-/Users/hamzasmati/Desktop/connexionServeur/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/hamzasmati/Desktop/connexionServeur/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/hamzasmati/Desktop/connexionServeur/cmake-build-debug/CMakeFiles/connexionServeur.dir
+/Users/hamzasmati/Documents/GitHub/chatEsgi/serveur/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/hamzasmati/Documents/GitHub/chatEsgi/serveur/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hamzasmati/Documents/GitHub/chatEsgi/serveur/cmake-build-debug/CMakeFiles/connexionServeur.dir

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/hamzasmati/Desktop/connexionServeur/main.cpp
+/Users/hamzasmati/Documents/GitHub/chatEsgi/serveur/main.cpp
 sys/types.h
 -
 sys/socket.h
